@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: We use git as it assists us with software development projects especially in regards to version control and collaboration. Additionally, git is open source, so people can add, develop, and modify code for free. Ultiamtely, it makes the software development process more organized and efficent. 
+
+
