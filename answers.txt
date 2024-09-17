@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science could be applied to a variety of fields like healthcare, economics, transportation, and more. For example, it can be used in the medical industry to predict disease outbreaks and futher analyze or predict patterns from existing medical data to improve solutions. 
+=======
+Q1: Why might be consider using git?
+
+Answer: We use git as it assists us with software development projects especially in regards to version control and collaboration. Additionally, git is open source, so people can add, develop, and modify code for free. Ultiamtely, it makes the software development process more organized and efficent. 
+
+
+>>>>>>> q1
